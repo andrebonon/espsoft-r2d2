@@ -1,6 +1,6 @@
 module.exports = (robot) ->
 
-annoyIntervalId = null
+annoyIntervalId = 1000
 
 robot.respond /annoy me/, (res) ->
   if annoyIntervalId
