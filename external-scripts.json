@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-business-cat",
-  "hubot-reaction"
+  "hubot-reaction",
+  "hubot-timezone"
 ]
